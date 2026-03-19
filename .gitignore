@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.vscode/
+.pytest_cache/
+pip-wheel-metadata/
+LICENSE
