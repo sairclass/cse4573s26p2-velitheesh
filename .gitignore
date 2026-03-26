@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Miniconda installer
+Miniconda3-*.sh
+
+# Submission archive
+submission_litheesh.zip
+
+# Virtual environments & Python packages
+.venv/
+venv/
+env/
+.pypackages/
+.pypackages2/
+.pipcache/
+
+# CUDA / GPU libraries (VM artifacts)
+.cudnn/
+.cupti/
+.cusparse/
+
+# Temp / swap files (VM artifacts)
+.swapfile
+.tmp/
+.tmp2/
+
+# OS files
+.DS_Store
+Thumbs.db
